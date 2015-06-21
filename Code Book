@@ -1,0 +1,86 @@
+
+Activity   - This column describes about the activities of the subject.
+             Ex:   WALKING WALKING_UPSTAIRS  WALKING_DOWNSTAIRS SITTING STANDING  LAYING
+			 
+Subject     Have values ranging from 1to 30. Each one is an id of the person.
+
+tBodyAcc-mean()-X  - mean of the variable for the subject for that activity
+tBodyAcc-mean()-Y  - mean of the variable for the subject for that activity
+tBodyAcc-mean()-Z  - mean of the variable for the subject for that activity
+tBodyAcc-std()-X  - mean of the variable for the subject for that activity
+tBodyAcc-std()-Y  - mean of the variable for the subject for that activity
+tBodyAcc-std()-Z  - mean of the variable for the subject for that activity
+tGravityAcc-mean()-X  - mean of the variable for the subject for that activity
+tGravityAcc-mean()-Y  - mean of the variable for the subject for that activity
+tGravityAcc-mean()-Z  - mean of the variable for the subject for that activity
+tGravityAcc-std()-X  - mean of the variable for the subject for that activity
+tGravityAcc-std()-Y  - mean of the variable for the subject for that activity
+tGravityAcc-std()-Z  - mean of the variable for the subject for that activity
+tBodyAccJerk-mean()-X  - mean of the variable for the subject for that activity
+tBodyAccJerk-mean()-Y  - mean of the variable for the subject for that activity
+tBodyAccJerk-mean()-Z  - mean of the variable for the subject for that activity
+tBodyAccJerk-std()-X  - mean of the variable for the subject for that activity
+tBodyAccJerk-std()-Y  - mean of the variable for the subject for that activity
+tBodyAccJerk-std()-Z  - mean of the variable for the subject for that activity
+tBodyGyro-mean()-X  - mean of the variable for the subject for that activity
+tBodyGyro-mean()-Y  - mean of the variable for the subject for that activity
+tBodyGyro-mean()-Z  - mean of the variable for the subject for that activity
+tBodyGyro-std()-X  - mean of the variable for the subject for that activity
+tBodyGyro-std()-Y  - mean of the variable for the subject for that activity
+tBodyGyro-std()-Z  - mean of the variable for the subject for that activity
+tBodyGyroJerk-mean()-X  - mean of the variable for the subject for that activity
+tBodyGyroJerk-mean()-Y  - mean of the variable for the subject for that activity
+tBodyGyroJerk-mean()-Z  - mean of the variable for the subject for that activity
+tBodyGyroJerk-std()-X  - mean of the variable for the subject for that activity
+tBodyGyroJerk-std()-Y  - mean of the variable for the subject for that activity
+tBodyGyroJerk-std()-Z  - mean of the variable for the subject for that activity
+tBodyAccMag-mean()  - mean of the variable for the subject for that activity
+tBodyAccMag-std()  - mean of the variable for the subject for that activity
+tGravityAccMag-mean()  - mean of the variable for the subject for that activity
+tGravityAccMag-std()  - mean of the variable for the subject for that activity
+tBodyAccJerkMag-mean()  - mean of the variable for the subject for that activity
+tBodyAccJerkMag-std()  - mean of the variable for the subject for that activity
+tBodyGyroMag-mean()  - mean of the variable for the subject for that activity
+tBodyGyroMag-std()  - mean of the variable for the subject for that activity
+tBodyGyroJerkMag-mean()  - mean of the variable for the subject for that activity
+tBodyGyroJerkMag-std()  - mean of the variable for the subject for that activity
+fBodyAcc-mean()-X  - mean of the variable for the subject for that activity
+fBodyAcc-mean()-Y  - mean of the variable for the subject for that activity
+fBodyAcc-mean()-Z  - mean of the variable for the subject for that activity
+fBodyAcc-std()-X  - mean of the variable for the subject for that activity
+fBodyAcc-std()-Y  - mean of the variable for the subject for that activity
+fBodyAcc-std()-Z  - mean of the variable for the subject for that activity
+fBodyAcc-meanFreq()-X  - mean of the variable for the subject for that activity
+fBodyAcc-meanFreq()-Y  - mean of the variable for the subject for that activity
+fBodyAcc-meanFreq()-Z  - mean of the variable for the subject for that activity
+fBodyAccJerk-mean()-X  - mean of the variable for the subject for that activity
+fBodyAccJerk-mean()-Y  - mean of the variable for the subject for that activity
+fBodyAccJerk-mean()-Z  - mean of the variable for the subject for that activity
+fBodyAccJerk-std()-X  - mean of the variable for the subject for that activity
+fBodyAccJerk-std()-Y  - mean of the variable for the subject for that activity
+fBodyAccJerk-std()-Z  - mean of the variable for the subject for that activity
+fBodyAccJerk-meanFreq()-X  - mean of the variable for the subject for that activity
+fBodyAccJerk-meanFreq()-Y  - mean of the variable for the subject for that activity
+fBodyAccJerk-meanFreq()-Z  - mean of the variable for the subject for that activity
+fBodyGyro-mean()-X  - mean of the variable for the subject for that activity
+fBodyGyro-mean()-Y  - mean of the variable for the subject for that activity
+fBodyGyro-mean()-Z  - mean of the variable for the subject for that activity
+fBodyGyro-std()-X  - mean of the variable for the subject for that activity
+fBodyGyro-std()-Y  - mean of the variable for the subject for that activity
+fBodyGyro-std()-Z  - mean of the variable for the subject for that activity
+fBodyGyro-meanFreq()-X  - mean of the variable for the subject for that activity
+fBodyGyro-meanFreq()-Y  - mean of the variable for the subject for that activity
+fBodyGyro-meanFreq()-Z  - mean of the variable for the subject for that activity
+fBodyAccMag-mean()  - mean of the variable for the subject for that activity
+fBodyAccMag-std()  - mean of the variable for the subject for that activity
+fBodyAccMag-meanFreq()  - mean of the variable for the subject for that activity
+fBodyBodyAccJerkMag-mean()  - mean of the variable for the subject for that activity
+fBodyBodyAccJerkMag-std()  - mean of the variable for the subject for that activity
+fBodyBodyAccJerkMag-meanFreq()  - mean of the variable for the subject for that activity
+fBodyBodyGyroMag-mean()  - mean of the variable for the subject for that activity
+fBodyBodyGyroMag-std()  - mean of the variable for the subject for that activity
+fBodyBodyGyroMag-meanFreq()  - mean of the variable for the subject for that activity
+fBodyBodyGyroJerkMag-mean()  - mean of the variable for the subject for that activity
+fBodyBodyGyroJerkMag-std()  - mean of the variable for the subject for that activity
+fBodyBodyGyroJerkMag-meanFreq()  - mean of the variable for the subject for that activity
+
